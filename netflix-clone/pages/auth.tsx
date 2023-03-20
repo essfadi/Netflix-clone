@@ -1,5 +1,5 @@
 "use client"
-import Input from "@/components/input";
+import Input from "@/components/Input";
 import React from "react";
 import axios from "axios";
 import { signIn } from 'next-auth/react';
