@@ -1,4 +1,3 @@
-"use client"
 import Input from "@/components/Input";
 import React from "react";
 import axios from "axios";
